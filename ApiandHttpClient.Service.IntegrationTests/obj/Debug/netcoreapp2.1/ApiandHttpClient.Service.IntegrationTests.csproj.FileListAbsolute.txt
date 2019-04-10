@@ -1,0 +1,17 @@
+C:\git\api-and-refit\ApiandHttpClient.Service.IntegrationTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\git\api-and-refit\ApiandHttpClient.Service.IntegrationTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\git\api-and-refit\ApiandHttpClient.Service.IntegrationTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\git\api-and-refit\ApiandHttpClient.Service.IntegrationTests\bin\Debug\netcoreapp2.1\ApiandHttpClient.Service.IntegrationTests.deps.json
+C:\git\api-and-refit\ApiandHttpClient.Service.IntegrationTests\bin\Debug\netcoreapp2.1\ApiandHttpClient.Service.IntegrationTests.runtimeconfig.json
+C:\git\api-and-refit\ApiandHttpClient.Service.IntegrationTests\bin\Debug\netcoreapp2.1\ApiandHttpClient.Service.IntegrationTests.runtimeconfig.dev.json
+C:\git\api-and-refit\ApiandHttpClient.Service.IntegrationTests\bin\Debug\netcoreapp2.1\ApiandHttpClient.Service.IntegrationTests.dll
+C:\git\api-and-refit\ApiandHttpClient.Service.IntegrationTests\bin\Debug\netcoreapp2.1\ApiandHttpClient.Service.IntegrationTests.pdb
+C:\git\api-and-refit\ApiandHttpClient.Service.IntegrationTests\obj\Debug\netcoreapp2.1\ApiandHttpClient.Service.IntegrationTests.csprojAssemblyReference.cache
+C:\git\api-and-refit\ApiandHttpClient.Service.IntegrationTests\obj\Debug\netcoreapp2.1\ApiandHttpClient.Service.IntegrationTests.csproj.CoreCompileInputs.cache
+C:\git\api-and-refit\ApiandHttpClient.Service.IntegrationTests\obj\Debug\netcoreapp2.1\ApiandHttpClient.Service.IntegrationTests.AssemblyInfoInputs.cache
+C:\git\api-and-refit\ApiandHttpClient.Service.IntegrationTests\obj\Debug\netcoreapp2.1\ApiandHttpClient.Service.IntegrationTests.AssemblyInfo.cs
+C:\git\api-and-refit\ApiandHttpClient.Service.IntegrationTests\obj\Debug\netcoreapp2.1\ApiandHttpClient.Service.IntegrationTests.dll
+C:\git\api-and-refit\ApiandHttpClient.Service.IntegrationTests\obj\Debug\netcoreapp2.1\ApiandHttpClient.Service.IntegrationTests.pdb
+C:\git\api-and-refit\ApiandHttpClient.Service.IntegrationTests\bin\Debug\netcoreapp2.1\ApiAndHttpClient.Service.dll
+C:\git\api-and-refit\ApiandHttpClient.Service.IntegrationTests\bin\Debug\netcoreapp2.1\ApiAndHttpClient.Service.pdb
+C:\git\api-and-refit\ApiandHttpClient.Service.IntegrationTests\obj\Debug\netcoreapp2.1\ApiandHttpClient.Service.IntegrationTests.csproj.CopyComplete

@@ -1,0 +1,8 @@
+C:\git\api-and-refit\ApiAndHttpClient\bin\Debug\netstandard2.0\ApiAndHttpClient.Service.deps.json
+C:\git\api-and-refit\ApiAndHttpClient\bin\Debug\netstandard2.0\ApiAndHttpClient.Service.dll
+C:\git\api-and-refit\ApiAndHttpClient\obj\Debug\netstandard2.0\ApiAndHttpClient.Service.csproj.CoreCompileInputs.cache
+C:\git\api-and-refit\ApiAndHttpClient\obj\Debug\netstandard2.0\ApiAndHttpClient.Service.AssemblyInfoInputs.cache
+C:\git\api-and-refit\ApiAndHttpClient\obj\Debug\netstandard2.0\ApiAndHttpClient.Service.AssemblyInfo.cs
+C:\git\api-and-refit\ApiAndHttpClient\bin\Debug\netstandard2.0\ApiAndHttpClient.Service.pdb
+C:\git\api-and-refit\ApiAndHttpClient\obj\Debug\netstandard2.0\ApiAndHttpClient.Service.dll
+C:\git\api-and-refit\ApiAndHttpClient\obj\Debug\netstandard2.0\ApiAndHttpClient.Service.pdb

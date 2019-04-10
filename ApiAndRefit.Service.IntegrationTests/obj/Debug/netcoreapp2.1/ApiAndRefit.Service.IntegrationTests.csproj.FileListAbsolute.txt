@@ -1,0 +1,17 @@
+C:\git\api-and-refit\ApiAndRefit.Service.IntegrationTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\git\api-and-refit\ApiAndRefit.Service.IntegrationTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\git\api-and-refit\ApiAndRefit.Service.IntegrationTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\git\api-and-refit\ApiAndRefit.Service.IntegrationTests\bin\Debug\netcoreapp2.1\ApiAndRefit.Service.IntegrationTests.deps.json
+C:\git\api-and-refit\ApiAndRefit.Service.IntegrationTests\bin\Debug\netcoreapp2.1\ApiAndRefit.Service.IntegrationTests.runtimeconfig.json
+C:\git\api-and-refit\ApiAndRefit.Service.IntegrationTests\bin\Debug\netcoreapp2.1\ApiAndRefit.Service.IntegrationTests.runtimeconfig.dev.json
+C:\git\api-and-refit\ApiAndRefit.Service.IntegrationTests\bin\Debug\netcoreapp2.1\ApiAndRefit.Service.IntegrationTests.dll
+C:\git\api-and-refit\ApiAndRefit.Service.IntegrationTests\bin\Debug\netcoreapp2.1\ApiAndRefit.Service.IntegrationTests.pdb
+C:\git\api-and-refit\ApiAndRefit.Service.IntegrationTests\bin\Debug\netcoreapp2.1\ApiAndRefit.Service.dll
+C:\git\api-and-refit\ApiAndRefit.Service.IntegrationTests\bin\Debug\netcoreapp2.1\ApiAndRefit.Service.pdb
+C:\git\api-and-refit\ApiAndRefit.Service.IntegrationTests\obj\Debug\netcoreapp2.1\ApiAndRefit.Service.IntegrationTests.csprojAssemblyReference.cache
+C:\git\api-and-refit\ApiAndRefit.Service.IntegrationTests\obj\Debug\netcoreapp2.1\ApiAndRefit.Service.IntegrationTests.csproj.CoreCompileInputs.cache
+C:\git\api-and-refit\ApiAndRefit.Service.IntegrationTests\obj\Debug\netcoreapp2.1\ApiAndRefit.Service.IntegrationTests.AssemblyInfoInputs.cache
+C:\git\api-and-refit\ApiAndRefit.Service.IntegrationTests\obj\Debug\netcoreapp2.1\ApiAndRefit.Service.IntegrationTests.AssemblyInfo.cs
+C:\git\api-and-refit\ApiAndRefit.Service.IntegrationTests\obj\Debug\netcoreapp2.1\ApiAndRefit.Service.IntegrationTests.csproj.CopyComplete
+C:\git\api-and-refit\ApiAndRefit.Service.IntegrationTests\obj\Debug\netcoreapp2.1\ApiAndRefit.Service.IntegrationTests.dll
+C:\git\api-and-refit\ApiAndRefit.Service.IntegrationTests\obj\Debug\netcoreapp2.1\ApiAndRefit.Service.IntegrationTests.pdb
