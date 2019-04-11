@@ -7,11 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiAndRefit.Service", "ApiA
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiAndRefit.Service.IntegrationTests", "ApiAndRefit.Service.IntegrationTests\ApiAndRefit.Service.IntegrationTests.csproj", "{BBBDB19D-8640-4BD5-BD7A-4EFB13DA8425}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiAndHttpClient.Service", "ApiAndHttpClient\ApiAndHttpClient.Service.csproj", "{DCADC1FB-5E08-4096-8A9C-58F340B5ADCF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiAndHttpClient.Service", "ApiAndHttpClient\ApiAndHttpClient.Service.csproj", "{DCADC1FB-5E08-4096-8A9C-58F340B5ADCF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiandHttpClient.Service.IntegrationTests", "ApiandHttpClient.Service.IntegrationTests\ApiandHttpClient.Service.IntegrationTests.csproj", "{71B15545-32F3-4079-AC22-FF2471DF3B7E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiandHttpClient.Service.IntegrationTests", "ApiandHttpClient.Service.IntegrationTests\ApiandHttpClient.Service.IntegrationTests.csproj", "{71B15545-32F3-4079-AC22-FF2471DF3B7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleHttpClient", "ConsoleHttpClient\ConsoleHttpClient.csproj", "{E18E34D5-8386-449B-98D4-71747EDCEAFB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiAndHttpClient.Service.ConsoleTest", "ConsoleHttpClient\ApiAndHttpClient.Service.ConsoleTest.csproj", "{E18E34D5-8386-449B-98D4-71747EDCEAFB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
